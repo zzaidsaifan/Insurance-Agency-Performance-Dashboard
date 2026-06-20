@@ -211,28 +211,6 @@ This dashboard helps insurance agencies:
 
 ---
 
-## Dashboard Preview
-
-Add dashboard screenshots inside an `images` folder and update the paths below.
-
-### Executive Dashboard
-
-![Dashboard](images/dashboard-overview.png)
-
-### Premium Analysis
-
-![Premium Analysis](images/premium-analysis.png)
-
-### Loss Ratio Analysis
-
-![Loss Ratio](images/loss-ratio-analysis.png)
-
-### Retention Analysis
-
-![Retention Analysis](images/retention-analysis.png)
-
----
-
 ## Future Enhancements
 
 - Power BI version of the dashboard
