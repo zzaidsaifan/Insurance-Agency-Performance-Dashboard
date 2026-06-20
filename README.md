@@ -1,5 +1,7 @@
 # Insurance Agency Performance Dashboard
 
+## To access this project, kindly follow this link: https://docs.google.com/spreadsheets/d/19l4Z3uxM7eobpsKWs96eGHvDRJRQjD56/edit?usp=sharing&ouid=101960821691312529061&rtpof=true&sd=true
+
 ## Overview
 
 The Insurance Agency Performance Dashboard is a business intelligence and financial reporting project designed to analyze insurance agency performance through interactive dashboards and KPI-driven reporting.
